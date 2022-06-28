@@ -3,5 +3,4 @@
 Olá ! Bem vindo ao meu livro de receias :book:
 
 - Strogonoff de Frango
-
-  
+- Pavê
